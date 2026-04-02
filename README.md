@@ -38,7 +38,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
 </p>
 
 <p align="center">
