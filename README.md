@@ -49,7 +49,7 @@
   <a href="https://github.com/balax-24">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</p>>
+</p>
 
 ---
 <p align="center">
