@@ -28,6 +28,7 @@
 
 ### 🚀 Projects & Highlights
 
+* **🎓 Edumate Sairam:** A native Flutter wrapper that bypasses desktop-only restrictions to seamlessly bring the Sairam EduMate student portal to mobile devices.
 * **📱 Smart Attendance App:** A Flutter-based college app with Supabase backend and secure device binding. 
 * **⌨️ Windows Auto Typer:** A custom desktop application built with C# to completely automate repetitive typing tasks.
 * **🎯 SkillRack Tracker:** A full-stack web and mobile application built to calculate, track, and manage SkillRack points automatically. *(Personal Flex: I hit 15k points!)*
@@ -38,7 +39,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
 </p>
 
 <p align="center">
