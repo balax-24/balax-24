@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/AI_&_Ollama-FF9900?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
@@ -28,16 +29,16 @@
 ### 🚀 Projects & Highlights
 
 * **📱 Smart Attendance App:** A Flutter-based college app with Supabase backend and secure device binding. 
-* **⌨️ Windows Auto Typer:** A custom desktop application built to completely automate repetitive typing tasks.
+* **⌨️ Windows Auto Typer:** A custom desktop application built with C# to completely automate repetitive typing tasks.
+* **🎯 SkillRack Tracker:** A full-stack web and mobile application built to calculate, track, and manage SkillRack points automatically. *(Personal Flex: I hit 15k points!)*
 * **🚁 Autonomous Drone:** Built with a CUAV X7+ flight controller. Scans QR codes and carries payloads automatically!
 * **📝 AI PDF-to-Notes Generator:** An internship project leveraging local Ollama models and the Gemini API to smartly extract key points from PDFs.
-* **🎯 SkillRack Tracker:** A full-stack web app built with Node.js and Puppeteer to calculate and track SkillRack points. *(Personal Flex: I hit 10k points!)*
 * **📅 Event Discovery App:** A platform to easily filter and find inter-college campus events by date, fees, and prizes.
 
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
 </p>
 
 <p align="center">
