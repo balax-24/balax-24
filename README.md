@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
   <a href="https://github.com/balax-24">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</p>>
 
 ---
 <p align="center">
