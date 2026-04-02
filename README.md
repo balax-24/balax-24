@@ -5,6 +5,15 @@
   <i>Always building something cool, from Flutter apps to Autonomous Drones!</i>
 </p>
 
+<p align="center">
+  <a href="https://balaharish.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://instagram.com/bala.24__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -19,6 +28,7 @@
 ### 🚀 Projects & Highlights
 
 * **📱 Smart Attendance App:** A Flutter-based college app with Supabase backend and secure device binding. 
+* **⌨️ Windows Auto Typer:** A custom desktop application built to completely automate repetitive typing tasks.
 * **🚁 Autonomous Drone:** Built with a CUAV X7+ flight controller. Scans QR codes and carries payloads automatically!
 * **📝 AI PDF-to-Notes Generator:** An internship project leveraging local Ollama models and the Gemini API to smartly extract key points from PDFs.
 * **🎯 SkillRack Tracker:** A full-stack web app built with Node.js and Puppeteer to calculate and track SkillRack points. *(Personal Flex: I hit 10k points!)*
@@ -31,8 +41,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" alt="Balaharish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/balax-24">
+    <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" alt="Balaharish's GitHub Stats" />
+  </a>
+  <a href="https://github.com/balax-24">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
