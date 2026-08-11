@@ -16,7 +16,7 @@
 <br/><br/>
 
 <a href="https://balaharish.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=Web&logoColor=white&labelColor=0f172a"/></a>
-<a href="https://instagram.com/bala.24__" target="_blank"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a"/></a>
+<a href="https://instagram.com/bala.06__" target="_blank"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a"/></a>
 <a href="mailto:balaharish0202@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
 <a href="https://github.com/balax-24"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
 
