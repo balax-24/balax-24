@@ -37,7 +37,7 @@
 ```yaml
 name: "Balaharish S"
 role: "Cross-Platform App Developer · GenAI Architect · Embedded Systems Explorer"
-education: "B.Tech. Information Technology, Sri Sairam Engineering College (2023 - 2027)"
+education: "B.Tech. Information Technology, Sri Sairam Engineering College (2024 - 2028)"
 leadership: "Webmaster, IEEE Computer Society Student Chapter"
 internship: "Generative AI Intern, Sibi's 7Brains Pvt Ltd"
 focus: ["Flutter / Dart", "Generative AI (Gemini, Ollama, LangChain)", "Autonomous Drones (CUAV, PX4)", "System Automation & Tooling"]
