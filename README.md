@@ -112,10 +112,10 @@ building:
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
