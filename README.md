@@ -64,7 +64,7 @@ Ollama · Gemini API · LangChain · RAG pipelines
 | **[Ledger](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026)** | Conversational Postgres agent — natural language to read-only SQL, AST-blocked writes, self-correcting query loop, live charts & schema diagrams | React · FastAPI · Gemini · PostgreSQL · SQLGlot |
 | **Smart Attend Pro (Internzz)** | Production attendance platform for 1,000+ students — on-device face verification (MobileFaceNet) + BLE proximity + device binding to stop proxy attendance | Flutter · Supabase (RLS) · TFLite · BLE |
 | **SilkCheck** | On-device optical inspection app — 2D FFT weave-periodicity analysis on live camera feed to flag handloom vs. powerloom silk, fully offline | Kotlin · Jetpack Compose · CameraX |
-| **[Autonomous QR-Scanning Payload Drone](https://github.com/balax-24/Qr_Scan_Drone)** | Drone that navigates to coordinates, scans a QR code to confirm the target, and triggers an automated payload release | Python · OpenCV · PX4/ArduPilot · CUAV X7+ |
+| **[Skillrack Companion](https://github.com/balax-24/skillrack_companion)** | Cross-platform tracker for competitive-programming progress, with Chrome extension and Android widgets | Flutter · Supabase |
 | **RiskSetu** | Offline-first PWA for community health workers to screen for NCDs against WHO/ICMR rules, with real-time district dashboards | React · Vite · Firebase |
 | **[API Sniffer Pro](https://github.com/balax-24/API_Sniffer)** | Chrome DevTools extension that captures and replays live API traffic, exporting HAR/Markdown/CSV and multi-language replay scripts | JavaScript · Chrome Extensions (MV3) |
 
@@ -74,8 +74,8 @@ Ollama · Gemini API · LangChain · RAG pipelines
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Autonomous QR-Scanning Payload Drone](https://github.com/balax-24/Qr_Scan_Drone)** | Drone that navigates to coordinates, scans a QR code to confirm the target, and triggers an automated payload release | Python · OpenCV · PX4/ArduPilot · CUAV X7+ |
 | **[Edumate Sairam](https://github.com/balax-24/edumate_sairam)** | Native Flutter wrapper bringing the college's desktop-only student portal to mobile | Flutter · Web scraping |
-| **[Skillrack Companion](https://github.com/balax-24/skillrack_companion)** | Cross-platform tracker for competitive-programming progress, with Chrome extension and Android widgets | Flutter · Supabase |
 | **[Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite)** | Linux power-management daemon tuning CPU/PCIe power states, with a tray GUI | Python · Linux sysfs |
 
 </details>
@@ -117,5 +117,5 @@ building:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=balax-24&theme=tokyonight&hide_border=true" height="165"/>
 </div>
