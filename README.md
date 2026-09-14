@@ -1,245 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=260&section=header&text=Balaharish%20S&fontSize=55&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=GenAI%20Developer%20%7C%20Cross-Platform%20Engineer%20%7C%20Drone%20Integrator&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=180&section=header&text=Balaharish%20Saravanan&fontSize=42&fontColor=E0F2FE&fontAlignY=42&desc=GenAI%20Developer%20%C2%B7%20Cross-Platform%20Engineer%20%C2%B7%20Security-Aware%20SWE&descAlignY=62&descSize=15" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+GenAI+Solutions;Flutter+%2B+Cross-Platform+Developer;Autonomous+Drones+%2B+Hardware+Hacking;15K%2B+SkillRack+Points+%7C+Problem+Solver;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech.%20Information%20Technology-Sri%20Sairam%20Engineering%20College-0284c7?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Webmaster-IEEE%20Computer%20Society-006699?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/GenAI%20Intern-7Brains%20Pvt%20Ltd-6366f1?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-0d9488?style=flat-square&labelColor=0f172a"/>
-
-<br/><br/>
-
-<a href="https://balaharish.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=Web&logoColor=white&labelColor=0f172a"/></a>
-<a href="https://instagram.com/bala.06__" target="_blank"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a"/></a>
-<a href="mailto:balaharish0202@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
-<a href="https://github.com/balax-24"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=balax-24&style=flat-square&color=0284c7&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/balax-24?style=flat-square&color=0284c7&labelColor=0f172a&label=Followers"/>
-<img src="https://img.shields.io/github/stars/balax-24?style=flat-square&color=0284c7&labelColor=0f172a&label=Stars"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-balaharish.netlify.app-0284c7?style=flat-square)](https://balaharish.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-balax--24-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balax-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-balah4rish--saravanan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/balah4rish-saravanan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-balah4rish--saravanan-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/balah4rish-saravanan/)
+[![Email](https://img.shields.io/badge/Email-balaharish0202%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:balaharish0202@gmail.com)
 
 </div>
 
 <br/>
 
----
+## About
 
-## ⚡ About Me
+Third-year Computer Science Engineering student at Sri Sai Ram Institute of Technology, building toward software engineering placements — aiming to be a **security-aware software engineer**, not a pure security hire. I work mostly solo, across mobile, backend, and applied-AI, and I'm an active hackathon competitor with a bias toward shipping complete, working systems under tight deadlines rather than polished slides.
 
-```yaml
-name: "Balaharish S"
-role: "Cross-Platform App Developer · GenAI Architect · Embedded Systems Explorer"
-education: "B.Tech. Information Technology, Sri Sairam Engineering College (2024 - 2028)"
-leadership: "Webmaster, IEEE Computer Society Student Chapter"
-internship: "Generative AI Intern, Sibi's 7Brains Pvt Ltd"
-focus: ["Flutter / Dart", "Generative AI (Gemini, Ollama, LangChain)", "Autonomous Drones (CUAV, PX4)", "System Automation & Tooling"]
-```
+- 🔭 Currently: Webmaster, IEEE Computer Society (Sri Sai Ram Institute of Technology)
+- 🌱 Building: an offline-first attendance platform (biometric + BLE) and a natural-language Postgres querying agent
+- 🎓 RHCSA certified (Red Hat Certified System Administrator) — 100%
+- 💬 Ask me about: Flutter, GenAI agent pipelines (RAG, local LLMs), or Linux systems
 
-I am an Information Technology student and developer who specializes in building **highly functional cross-platform applications, custom AI automation agents, and autonomous hardware systems**. I bridge the gap between software and hardware—whether that means coding a geofenced attendance system, wrapping complex database catalogs in natural language GenAI agents, or tuning route planning algorithms for autonomous payload-carrying drones.
+<br/>
 
-I build tools that solve immediate practical needs. My development workflow centers on clean UI, secure data flow (e.g. read-only AST parsers for SQL agents), and automated system telemetry. As the **Webmaster for the IEEE Computer Society**, I maintain digital platforms and coordinate technical events, transforming engineering concepts into real student projects.
+## Tech Stack
 
----
-
-## 🛠️ Tech Stack & Capabilities
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,c,cs,javascript,typescript,html,css&theme=dark"/>
-</div>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,dart,c,cs,javascript,typescript&theme=dark"/>
 
-**Frameworks & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,fastapi&theme=dark"/>
-</div>
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio&theme=dark"/>
 
-**Databases, Cloud & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,git,github,postman,vercel,netlify,linux&theme=dark"/>
-</div>
+</td>
+<td valign="top" width="50%">
 
-**Hardware & Embedded Systems**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-  <img src="https://img.shields.io/badge/CUAV_X7+-Flight_Controller-3b82f6?style=flat-square&labelColor=0f172a" alt="CUAV X7+"/>
-  <img src="https://img.shields.io/badge/PX4_/_ArduPilot-Autopilot_Firmware-0d9488?style=flat-square&labelColor=0f172a" alt="PX4/ArduPilot"/>
-  <img src="https://img.shields.io/badge/QGroundControl-GCS-ea580c?style=flat-square&labelColor=0f172a" alt="QGroundControl"/>
-</div>
+**Backend & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,vite&theme=dark"/>
+<br/>
+Ollama · Gemini API · LangChain · RAG pipelines
 
----
+**Data, Cloud & Systems**
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,redis,docker,git,github,linux&theme=dark"/>
 
-## 🚀 Featured Projects
+</td>
+</tr>
+</table>
 
-<details open>
-<summary><b>🔹 Ledger — Secure Conversational Database Agent</b></summary>
 <br/>
 
-An autonomous AI-powered PostgreSQL database assistant and visualizer. It translates natural language or voice commands into read-only SQL, detects statistical anomalies, self-corrects invalid queries, and displays dynamic interactive charts and schema diagrams.
+## Featured Projects
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React · FastAPI · Google Gemini 3.1 · PostgreSQL · SQLGlot · Recharts · Mermaid.js |
-| **Specialty** | Double-shield security: AST parsing blocks modifying keywords (`DROP`, `UPDATE`) and restricts access via a read-only DB user. Z-score mathematical anomaly detection flags temporal spikes/drops. |
-| **Performance** | Two-phase SQL self-correction loops syntax errors back to Gemini for query healing, keeping response times under 200ms. |
-| **Repository** | [balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026) |
-
-</details>
+| Project | What it does | Stack |
+|---|---|---|
+| **Buzzard Code** | On-premise autonomous security-research agent — local LLM router with a ReAct reasoning loop, sandboxed Docker execution, and automated reporting | Python · Ollama/Llama-3 · Docker · ReAct |
+| **[Ledger](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026)** | Conversational Postgres agent — natural language to read-only SQL, AST-blocked writes, self-correcting query loop, live charts & schema diagrams | React · FastAPI · Gemini · PostgreSQL · SQLGlot |
+| **Smart Attend Pro (Internzz)** | Production attendance platform for 1,000+ students — on-device face verification (MobileFaceNet) + BLE proximity + device binding to stop proxy attendance | Flutter · Supabase (RLS) · TFLite · BLE |
+| **SilkCheck** | On-device optical inspection app — 2D FFT weave-periodicity analysis on live camera feed to flag handloom vs. powerloom silk, fully offline | Kotlin · Jetpack Compose · CameraX |
+| **[Autonomous QR-Scanning Payload Drone](https://github.com/balax-24/Qr_Scan_Drone)** | Drone that navigates to coordinates, scans a QR code to confirm the target, and triggers an automated payload release | Python · OpenCV · PX4/ArduPilot · CUAV X7+ |
+| **RiskSetu** | Offline-first PWA for community health workers to screen for NCDs against WHO/ICMR rules, with real-time district dashboards | React · Vite · Firebase |
+| **[API Sniffer Pro](https://github.com/balax-24/API_Sniffer)** | Chrome DevTools extension that captures and replays live API traffic, exporting HAR/Markdown/CSV and multi-language replay scripts | JavaScript · Chrome Extensions (MV3) |
 
 <details>
-<summary><b>🔹 Autonomous QR-Scanning Payload Drone</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
-An autonomous drone payload delivery system integrating software control with precision avionics hardware. The drone autonomously navigates to designated coordinates, scans QR codes for location validation, and executes automated payload releases.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OpenCV · CUAV X7+ Flight Controller · PX4 Autopilot · QGroundControl |
-| **Specialty** | Real-time computer vision processing on the edge for target recognition and landing alignment. Automated flight telemetry logging and ground station feed sync. |
-| **Hardware** | Integrates servos, payload hooks, and distance sensors with the CUAV hardware stack. |
-| **Repository** | [balax-24/Qr_Scan_Drone](https://github.com/balax-24/Qr_Scan_Drone) / [AerothonGroundControl_2026](https://github.com/balax-24/AerothonGroundControl_2026) |
+| Project | What it does | Stack |
+|---|---|---|
+| **[Edumate Sairam](https://github.com/balax-24/edumate_sairam)** | Native Flutter wrapper bringing the college's desktop-only student portal to mobile | Flutter · Web scraping |
+| **[Skillrack Companion](https://github.com/balax-24/skillrack_companion)** | Cross-platform tracker for competitive-programming progress, with Chrome extension and Android widgets | Flutter · Supabase |
+| **[Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite)** | Linux power-management daemon tuning CPU/PCIe power states, with a tray GUI | Python · Linux sysfs |
 
 </details>
 
-<details>
-<summary><b>🔹 Internzz Attendance & Campus Tracker</b></summary>
 <br/>
 
-A secure, mobile-first college attendance tracking platform built with cross-platform stability. Features device binding and strict role navigation paths.
+## Hackathons
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Flutter · Dart · Supabase · PostgreSQL · Real-Time RPC |
-| **Specialty** | Secure hardware fingerprinting and device binding to prevent buddy punching. Deduplicated real-time session tracking with geofenced location verification. |
-| **Impact** | Offers a unified 4-tab mobile dashboard for students, department supervisors, and admin roles. |
-| **Repository** | [balax-24/Internzz_attendance](https://github.com/balax-24/Internzz_attendance) |
+Active across AI, robotics, and civic-tech tracks — 3× hackathon winner, building end-to-end under same-day and few-hour deadlines.
 
-</details>
-
-<details>
-<summary><b>🔹 Edumate Sairam Mobile App Wrapper</b></summary>
-<br/>
-
-A custom, native Flutter wrapper that bypasses desktop-only constraints to deliver the college's student portal directly to mobile screens with a responsive, premium user experience.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Flutter · Dart · Web Scraping · Custom Session Middleware |
-| **Specialty** | Session keeping and web request wrapping that adapts desktop structures to responsive mobile tabs. |
-| **Impact** | Drastically improved the speed and frequency of students checking marks, attendance, and timetables on-the-go. |
-| **Repository** | [balax-24/edumate_sairam](https://github.com/balax-24/edumate_sairam) |
-
-</details>
-
-<details>
-<summary><b>🔹 SkillRack scoring & Automation Suite</b></summary>
-<br/>
-
-A comprehensive full-stack platform built to calculate, scrape, track, and optimize coding points on the SkillRack platform. Helps manage progress and solve daily coding challenges.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | HTML5 · CSS3 · JavaScript · Python BeautifulSoup · Automation Daemons |
-| **Specialty** | Automated progress extraction, score visualization, and analytics dashboard that tracks user coding streaks and ranking drops. |
-| **Impact** | Helped maintain a consistent coding workflow, contributing to reaching **15,000+ points** on the platform. |
-| **Repository** | [balax-24/skillrack-tracker](https://github.com/balax-24/skillrack-tracker) / [skillrack_companion](https://github.com/balax-24/skillrack_companion) |
-
-</details>
-
-<details>
-<summary><b>🔹 Buzzard Power Suite</b></summary>
-<br/>
-
-An advanced desktop system power management and telemetry utility. It tracks battery state metrics, registers power profiles, and provides dynamic telemetry plots to prevent battery degradation.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Tkinter / Desktop UI · PSUtil · OS Telemetry APIs |
-| **Specialty** | Lightweight background daemon monitoring battery temperature, cycle counts, and charging rate anomalies. Custom tray indicators with desktop notification alerts. |
-| **Impact** | Power profiles optimization tool built to monitor hardware power spikes on local machines. |
-| **Repository** | [balax-24/Buzzard-Power-Suite](https://github.com/balax-24/Buzzard-Power-Suite) |
-
-</details>
-
-<details>
-<summary><b>🔹 API Sniffer Pro — Advanced DevTools Traffic Analyzer</b></summary>
-<br/>
-
-An advanced API discovery and network traffic capture extension panel for Chrome DevTools. It monitors, parses, and aggregates live API traffic in real-time, offering optimized export formats, request replays, and deep search capabilities for authorized security testing.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | JavaScript (ES6) · Chrome DevTools Extension API · HAR 1.2 · HTML5 / CSS3 |
-| **Specialty** | Chrome extension manifest v3 architecture featuring custom request filtering (by host whitelist/blacklist), optimized header sanitization, and structured payload capture caches. |
-| **Impact** | Automates the generation of structured Markdown reports, CSV datasets, and multi-language replay scripts (Fetch, Python Requests, HTTPie, and PowerShell) to facilitate backend API debugging and security audits. |
-| **Repository** | [balax-24/API_Sniffer](https://github.com/balax-24/API_Sniffer) |
-
-</details>
-
----
-
-## 🏆 Achievements & Key Metrics
-
-* **15,000+ SkillRack Points:** Advanced problem solving on SkillRack across multiple programming languages.
-* **GenAI PromptWars Winners:** Designed and shipped collaborative platforms (**Stadium Flow** & **VoteWise**) for physical events during GenAI PromptWars.
-* **Open Source & Hackathons:** Active contributor in collegiate and regional hackathons (Build2Gether, Aerothon, Sairam Hackathon).
-
----
-
-## 📈 Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
-</div>
+- **IEEE Global Student Challenge 2026** — Federated Learning backdoor attack & defense (aggregation strategies against poisoning)
+- **iQOO Reskill Hackathon 2026** — SilkCheck, an on-device Snapdragon AI build
+- **MiniAI MedTech Hackathon (Harvard-judged)** — RiskSetu, built in a ~4–5 hour sprint
+- **HackTronix 2.0** — real-time ball detection + monocular distance/angle estimation
+- **Sairam Hackathon** — Ledger, a natural-language database agent
+- **GenAI PromptWars** — Stadium Flow & VoteWise, shipped for live physical events
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/balax-24">
-    <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" alt="Balaharish's GitHub Stats" />
-  </a>
-  <a href="https://github.com/balax-24">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balax-24&theme=tokyonight&bg_color=0D0221&color=38BDF8&line=38BDF8&point=E0F2FE&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🔮 Current Focus
+## Currently
 
 ```yaml
 learning:
-  - "Advanced multi-agent orchestration frameworks (LangGraph, CrewAI)"
-  - "Deep learning model optimizations for resource-constrained edge systems (ONNX, OpenVINO)"
-  - "Robust firmware engineering patterns for custom flight paths and landing grids"
-
+  - Multi-agent orchestration (LangGraph, CrewAI)
+  - Edge ML optimization (ONNX, OpenVINO)
+  - Security fundamentals (TryHackMe, OverTheWire, PicoCTF) toward a security-aware SWE track
 building:
-  - "Ledger Enterprise — Scaling read-only database analysis agents to support multi-tenant configurations"
-  - "Autonomous Drone V2 — Precision landing targeting utilizing YOLOv8 arrow and QR landmark trackers"
-
-exploring:
-  - "Decentralized and edge intelligence integrations in robotic systems"
+  - Ledger — scaling the read-only DB agent toward multi-tenant use
+  - Smart Attend Pro — extracting face recognition into its own package
 ```
 
----
+<br/>
+
+## GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-<i>"Code ezhudhuvom, bugs varum, fix pannuvom!" 🚀</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=150&section=footer" width="100%"/>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
