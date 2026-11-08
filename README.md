@@ -1,245 +1,209 @@
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=260&section=header&text=Balaharish%20S&fontSize=55&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=GenAI%20Developer%20%7C%20Cross-Platform%20Engineer%20%7C%20Drone%20Integrator&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07080a,50:0f2a24,100:8ff0c8&height=280&section=header&text=Balaharish%20Saravanan&fontSize=58&fontColor=f4f5f7&fontAlignY=40&desc=AI%20Agents%20%C2%B7%20Security%20%C2%B7%20Autonomous%20Systems&descSize=18&descAlignY=60&animation=fadeIn&stroke=8ff0c8&strokeWidth=1" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+GenAI+Solutions;Flutter+%2B+Cross-Platform+Developer;Autonomous+Drones+%2B+Hardware+Hacking;15K%2B+SkillRack+Points+%7C+Problem+Solver;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG" />
+<a href="https://balaharish.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8FF0C8&center=true&vCenter=true&width=720&lines=I+build+software+that+thinks%2C+verifies+%26+flies.;Verified+AI+coding+agents+%E2%80%94+model+proposes%2C+code+decides;Ground+control+for+autonomous+drones+(ArduPilot+%2B+MAVLink);CTF+platforms%2C+SQL+guardrails%2C+real-time+systems;CSE+%40+Sri+Sairam+%C2%B7+Class+of+2028" alt="typing"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech.%20Information%20Technology-Sri%20Sairam%20Engineering%20College-0284c7?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Webmaster-IEEE%20Computer%20Society-006699?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/GenAI%20Intern-7Brains%20Pvt%20Ltd-6366f1?style=flat-square&labelColor=0f172a"/>
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-0d9488?style=flat-square&labelColor=0f172a"/>
-
-<br/><br/>
-
-<a href="https://balaharish.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=Web&logoColor=white&labelColor=0f172a"/></a>
-<a href="https://instagram.com/bala.24__" target="_blank"><img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f172a"/></a>
-<a href="mailto:balaharish0202@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/></a>
-<a href="https://github.com/balax-24"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=balax-24&style=flat-square&color=0284c7&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/balax-24?style=flat-square&color=0284c7&labelColor=0f172a&label=Followers"/>
-<img src="https://img.shields.io/github/stars/balax-24?style=flat-square&color=0284c7&labelColor=0f172a&label=Stars"/>
-
-</div>
+<a href="https://balaharish.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8ff0c8?style=for-the-badge&logo=googlechrome&logoColor=07080a"/></a>
+<a href="https://www.linkedin.com/in/balah4rish-saravanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:balaharish0202@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/bala.06__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
+<img src="https://komarev.com/ghpvc/?username=balax-24&style=flat-square&color=8ff0c8&labelColor=07080a&label=profile+views"/>
+<img src="https://img.shields.io/github/followers/balax-24?style=flat-square&color=8ff0c8&labelColor=07080a"/>
+<img src="https://img.shields.io/badge/graduating-2028-8ff0c8?style=flat-square&labelColor=07080a"/>
+<img src="https://img.shields.io/badge/status-open%20to%20internships-8ff0c8?style=flat-square&labelColor=07080a"/>
+
+</div>
+
 ---
 
-## ⚡ About Me
+## `$ whoami`
 
-```yaml
-name: "Balaharish S"
-role: "Cross-Platform App Developer · GenAI Architect · Embedded Systems Explorer"
-education: "B.Tech. Information Technology, Sri Sairam Engineering College (2023 - 2027)"
-leadership: "Webmaster, IEEE Computer Society Student Chapter"
-internship: "Generative AI Intern, Sibi's 7Brains Pvt Ltd"
-focus: ["Flutter / Dart", "Generative AI (Gemini, Ollama, LangChain)", "Autonomous Drones (CUAV, PX4)", "System Automation & Tooling"]
+```ts
+const bala = {
+  name:       "Balaharish Saravanan",
+  based:      "Chennai, India 🇮🇳",
+  college:    "Sri Sairam Engineering College — class of 2028",
+  roles:      ["Webmaster @ IEEE Computer Society Student Chapter",
+               "Software Lead @ Team Ignite Knights 4.0 (SAE AeroTHON)",
+               "ex-GenAI Intern @ Sibi's 7Brains"],
+  builds:     ["AI agents", "security tooling", "drone ground control", "real-time web"],
+  philosophy: "Models propose, code decides. Verify before you trust.",
+  funFact:    "Toad Sage Jiraiya superfan 🐸📜",
+};
 ```
 
-I am an Information Technology student and developer who specializes in building **highly functional cross-platform applications, custom AI automation agents, and autonomous hardware systems**. I bridge the gap between software and hardware—whether that means coding a geofenced attendance system, wrapping complex database catalogs in natural language GenAI agents, or tuning route planning algorithms for autonomous payload-carrying drones.
-
-I build tools that solve immediate practical needs. My development workflow centers on clean UI, secure data flow (e.g. read-only AST parsers for SQL agents), and automated system telemetry. As the **Webmaster for the IEEE Computer Society**, I maintain digital platforms and coordinate technical events, transforming engineering concepts into real student projects.
+Still in college, already shipping: a terminal coding agent with a fail-closed test gate, the CTF engine behind a 400-player event, a browser ground station for an ArduPilot drone, and a SQL agent that can't drop your tables.
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## 🧰 Arsenal
 
-**Languages**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,c,cs,javascript,typescript,html,css&theme=dark"/>
-</div>
 
-**Frameworks & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,fastapi&theme=dark"/>
-</div>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,kotlin,dart,c,cs&theme=dark&perline=8"/>
 
-**Databases, Cloud & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,git,github,postman,vercel,netlify,linux&theme=dark"/>
-</div>
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,flutter,androidstudio,tailwind,vite&theme=dark&perline=8"/>
 
-**Hardware & Embedded Systems**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-  <img src="https://img.shields.io/badge/CUAV_X7+-Flight_Controller-3b82f6?style=flat-square&labelColor=0f172a" alt="CUAV X7+"/>
-  <img src="https://img.shields.io/badge/PX4_/_ArduPilot-Autopilot_Firmware-0d9488?style=flat-square&labelColor=0f172a" alt="PX4/ArduPilot"/>
-  <img src="https://img.shields.io/badge/QGroundControl-GCS-ea580c?style=flat-square&labelColor=0f172a" alt="QGroundControl"/>
+**Data · Infra · Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,linux,cloudflare,git,raspberrypi&theme=dark&perline=8"/>
+
+**AI · Robotics**<br/>
+<img src="https://img.shields.io/badge/LLM_Agents-0f2a24?style=flat-square&logo=openai&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/MCP-0f2a24?style=flat-square&logo=anthropic&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/Ollama-0f2a24?style=flat-square&logo=ollama&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/Gemini-0f2a24?style=flat-square&logo=googlegemini&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/YOLOv8-0f2a24?style=flat-square&logo=yolo&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/OpenCV-0f2a24?style=flat-square&logo=opencv&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/ArduPilot-0f2a24?style=flat-square&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/PX4-0f2a24?style=flat-square&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/MAVLink-0f2a24?style=flat-square&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/OR--Tools-0f2a24?style=flat-square&logo=google&logoColor=8ff0c8"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured builds
 
-<details open>
-<summary><b>🔹 Ledger — Secure Conversational Database Agent</b></summary>
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An autonomous AI-powered PostgreSQL database assistant and visualizer. It translates natural language or voice commands into read-only SQL, detects statistical anomalies, self-corrects invalid queries, and displays dynamic interactive charts and schema diagrams.
+### 🦅 [Buzzard Code](https://github.com/balax-24/Buzzard-Code)
+Verified terminal AI coding agent. Runs your **real tests** before any task completes and asks before every edit and command. MCP servers, role-limited subagents, VS Code extension.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | React · FastAPI · Google Gemini 3.1 · PostgreSQL · SQLGlot · Recharts · Mermaid.js |
-| **Specialty** | Double-shield security: AST parsing blocks modifying keywords (`DROP`, `UPDATE`) and restricts access via a read-only DB user. Z-score mathematical anomaly detection flags temporal spikes/drops. |
-| **Performance** | Two-phase SQL self-correction loops syntax errors back to Gemini for query healing, keeping response times under 200ms. |
-| **Repository** | [balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026) |
+`Python` `TypeScript` `React Ink` `MCP` `Ollama`
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🔹 Autonomous QR-Scanning Payload Drone</b></summary>
-<br/>
+### 🛩️ [AeroTHON GCS](https://github.com/balax-24/aerothon-2026-drone-gcs)
+Browser ground control for an ArduPilot drone on a Raspberry Pi 5 — live MAVLink telemetry, SkyScan mission autonomy and a YOLOv8n detector, validated in Simscape.
 
-An autonomous drone payload delivery system integrating software control with precision avionics hardware. The drone autonomously navigates to designated coordinates, scans QR codes for location validation, and executes automated payload releases.
+`Python` `ArduPilot` `MAVLink` `YOLOv8`
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · OpenCV · CUAV X7+ Flight Controller · PX4 Autopilot · QGroundControl |
-| **Specialty** | Real-time computer vision processing on the edge for target recognition and landing alignment. Automated flight telemetry logging and ground station feed sync. |
-| **Hardware** | Integrates servos, payload hooks, and distance sensors with the CUAV hardware stack. |
-| **Repository** | [balax-24/Qr_Scan_Drone](https://github.com/balax-24/Qr_Scan_Drone) / [AerothonGroundControl_2026](https://github.com/balax-24/AerothonGroundControl_2026) |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🛡️ [TechX CTF Platform](https://github.com/balax-24/TechX-26---CTF_Event)
+High-concurrency Capture The Flag engine for IEEE TechX Madras ’26: SSE leaderboards, per-team Docker challenge isolation, offline-LAN ready.
 
-<details>
-<summary><b>🔹 Internzz Attendance & Campus Tracker</b></summary>
-<br/>
+`TypeScript` `Fastify` `PostgreSQL` `Redis` `Docker`
 
-A secure, mobile-first college attendance tracking platform built with cross-platform stability. Features device binding and strict role navigation paths.
+</td>
+<td width="50%" valign="top">
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Flutter · Dart · Supabase · PostgreSQL · Real-Time RPC |
-| **Specialty** | Secure hardware fingerprinting and device binding to prevent buddy punching. Deduplicated real-time session tracking with geofenced location verification. |
-| **Impact** | Offers a unified 4-tab mobile dashboard for students, department supervisors, and admin roles. |
-| **Repository** | [balax-24/Internzz_attendance](https://github.com/balax-24/Internzz_attendance) |
+### 📒 [Ledger](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026)
+Conversational database agent. English or voice → **read-only** SQL behind a SQLGlot AST gate, self-healing queries, charts and ER diagrams.
 
-</details>
+`FastAPI` `React` `Gemini` `PostgreSQL`
 
-<details>
-<summary><b>🔹 Edumate Sairam Mobile App Wrapper</b></summary>
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A custom, native Flutter wrapper that bypasses desktop-only constraints to deliver the college's student portal directly to mobile screens with a responsive, premium user experience.
+### 🧵 [SilkCheck](https://github.com/balax-24/Powerhouse-IQOO_Hackathon)
+Turns a phone camera into an optical instrument: 2D FFT weave analysis tells handloom silk from power-loom fakes.
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Flutter · Dart · Web Scraping · Custom Session Middleware |
-| **Specialty** | Session keeping and web request wrapping that adapts desktop structures to responsive mobile tabs. |
-| **Impact** | Drastically improved the speed and frequency of students checking marks, attendance, and timetables on-the-go. |
-| **Repository** | [balax-24/edumate_sairam](https://github.com/balax-24/edumate_sairam) |
+`Kotlin` `Jetpack Compose` `FFT`
 
-</details>
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [PulsePoll](https://github.com/balax-24/pulsepoll-HCL_GUVI)
+Real-time voting: one vote fans out to every listener in milliseconds through a Go WebSocket hub backed by Redis.
+
+`Go` `WebSockets` `Redis` `React`
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>🔹 SkillRack scoring & Automation Suite</b></summary>
+<summary><b>More builds →</b></summary>
 <br/>
 
-A comprehensive full-stack platform built to calculate, scrape, track, and optimize coding points on the SkillRack platform. Helps manage progress and solve daily coding challenges.
-
-| Attribute | Detail |
+| Project | What it is |
 |---|---|
-| **Stack** | HTML5 · CSS3 · JavaScript · Python BeautifulSoup · Automation Daemons |
-| **Specialty** | Automated progress extraction, score visualization, and analytics dashboard that tracks user coding streaks and ranking drops. |
-| **Impact** | Helped maintain a consistent coding workflow, contributing to reaching **15,000+ points** on the platform. |
-| **Repository** | [balax-24/skillrack-tracker](https://github.com/balax-24/skillrack-tracker) / [skillrack_companion](https://github.com/balax-24/skillrack_companion) |
-
-</details>
-
-<details>
-<summary><b>🔹 Buzzard Power Suite</b></summary>
-<br/>
-
-An advanced desktop system power management and telemetry utility. It tracks battery state metrics, registers power profiles, and provides dynamic telemetry plots to prevent battery degradation.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Tkinter / Desktop UI · PSUtil · OS Telemetry APIs |
-| **Specialty** | Lightweight background daemon monitoring battery temperature, cycle counts, and charging rate anomalies. Custom tray indicators with desktop notification alerts. |
-| **Impact** | Power profiles optimization tool built to monitor hardware power spikes on local machines. |
-| **Repository** | [balax-24/Buzzard-Power-Suite](https://github.com/balax-24/Buzzard-Power-Suite) |
-
-</details>
-
-<details>
-<summary><b>🔹 API Sniffer Pro — Advanced DevTools Traffic Analyzer</b></summary>
-<br/>
-
-An advanced API discovery and network traffic capture extension panel for Chrome DevTools. It monitors, parses, and aggregates live API traffic in real-time, offering optimized export formats, request replays, and deep search capabilities for authorized security testing.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | JavaScript (ES6) · Chrome DevTools Extension API · HAR 1.2 · HTML5 / CSS3 |
-| **Specialty** | Chrome extension manifest v3 architecture featuring custom request filtering (by host whitelist/blacklist), optimized header sanitization, and structured payload capture caches. |
-| **Impact** | Automates the generation of structured Markdown reports, CSV datasets, and multi-language replay scripts (Fetch, Python Requests, HTTPie, and PowerShell) to facilitate backend API debugging and security audits. |
-| **Repository** | [balax-24/API_Sniffer](https://github.com/balax-24/API_Sniffer) |
+| [RecoverAI](https://github.com/balax-24/RecoverAI_Razorpay-AI-Buildathon) | Guardrailed failed-payment recovery for Razorpay merchants |
+| [Sentinel Hawk](https://github.com/balax-24/Sentinel-Hawk-SIH26201-Software_Simulation-) | Single-image 3D reconstruction for rescue drones (SIH) |
+| [StadiumFlow](https://github.com/balax-24/Stadium-Flow---Physical_Event_GenAI_PromptWars) · [VoteWise](https://github.com/balax-24/VoteWise---Physical_Event_GenAI_PromptWars) | GenAI PromptWars builds |
+| [TechX Madras ’26 site](https://github.com/balax-24/TechX-26-Main-Web) | Official event website |
+| [Edumate](https://github.com/balax-24/edumate_sairam) | Flutter app for the college portal — 1000+ students |
+| [Internzz Attendance](https://github.com/balax-24/Internzz_attendance) | Flutter + Supabase attendance with device binding |
+| [API Sniffer](https://github.com/balax-24/API_Sniffer) | Chrome DevTools API capture panel |
+| [Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite) | Battery and power telemetry utility |
+| [SkillRack Companion](https://github.com/balax-24/skillrack_companion) | Points and streak tracker |
 
 </details>
 
 ---
 
-## 🏆 Achievements & Key Metrics
-
-* **15,000+ SkillRack Points:** Advanced problem solving on SkillRack across multiple programming languages.
-* **GenAI PromptWars Winners:** Designed and shipped collaborative platforms (**Stadium Flow** & **VoteWise**) for physical events during GenAI PromptWars.
-* **Open Source & Hackathons:** Active contributor in collegiate and regional hackathons (Build2Gether, Aerothon, Sairam Hackathon).
-
----
-
-## 📈 Activity & Stats
+## 🏆 Milestones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balax-24&theme=tokyonight&hide_border=true" alt="Balaharish's Streak" />
-</div>
 
-<br/>
+| 🥇 | 💻 | 🏁 | 🐧 |
+|:---:|:---:|:---:|:---:|
+| **Winner**<br/>Google GenAI PromptWars | **15,000+**<br/>SkillRack points | **3+**<br/>Hackathon podiums | **RHCSA**<br/>Red Hat standard |
 
-<div align="center">
-  <a href="https://github.com/balax-24">
-    <img src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&theme=tokyonight&hide_border=true" alt="Balaharish's GitHub Stats" />
-  </a>
-  <a href="https://github.com/balax-24">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balax-24&theme=tokyonight&bg_color=0D0221&color=38BDF8&line=38BDF8&point=E0F2FE&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 🔮 Current Focus
+## 📊 GitHub telemetry
 
-```yaml
-learning:
-  - "Advanced multi-agent orchestration frameworks (LangGraph, CrewAI)"
-  - "Deep learning model optimizations for resource-constrained edge systems (ONNX, OpenVINO)"
-  - "Robust firmware engineering patterns for custom flight paths and landing grids"
+<div align="center">
 
-building:
-  - "Ledger Enterprise — Scaling read-only database analysis agents to support multi-tenant configurations"
-  - "Autonomous Drone V2 — Precision landing targeting utilizing YOLOv8 arrow and QR landmark trackers"
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=8ff0c8&icon_color=8ff0c8&text_color=c9d1d9&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&langs_count=8&hide_border=true&bg_color=07080a&title_color=8ff0c8&text_color=c9d1d9"/>
 
-exploring:
-  - "Decentralized and edge intelligence integrations in robotic systems"
+<img src="https://streak-stats.demolab.com/?user=balax-24&hide_border=true&background=07080a&ring=8ff0c8&fire=8ff0c8&currStreakLabel=8ff0c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f4f5f7&sideNums=f4f5f7" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balax-24&bg_color=07080a&color=c9d1d9&line=8ff0c8&point=f4f5f7&area=true&area_color=8ff0c8&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=balax-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balax-24/balax-24/output/snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/balax-24/balax-24/output/snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🔭 Right now
+
+```diff
++ shipping   Buzzard Code — subagents, MCP, VS Code extension
++ flying     AeroTHON GCS — mission autonomy on Raspberry Pi 5
++ learning   multi-agent orchestration · edge inference (ONNX / TFLite)
+! open to    internships · research collabs · hackathon teams
 ```
 
 ---
 
 <div align="center">
 
-<i>"Code ezhudhuvom, bugs varum, fix pannuvom!" 🚀</i>
+<i>"Code ezhudhuvom, bugs varum, fix pannuvom!"</i> 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ff0c8,50:0f2a24,100:07080a&height=120&section=footer" width="100%"/>
 
 </div>
