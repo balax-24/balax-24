@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:07080a,50:0f2a24,100:8ff0c8&height=280&section=header&text=Balaharish%20Saravanan&fontSize=58&fontColor=f4f5f7&fontAlignY=40&desc=AI%20Agents%20%C2%B7%20Security%20%C2%B7%20Autonomous%20Systems&descSize=18&descAlignY=60&animation=fadeIn&stroke=8ff0c8&strokeWidth=1" width="100%" alt="header"/>
 
 <a href="https://balaharish.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8FF0C8&center=true&vCenter=true&width=720&lines=I+build+software+that+thinks%2C+verifies+%26+flies.;Verified+AI+coding+agents+%E2%80%94+model+proposes%2C+code+decides;Ground+control+for+autonomous+drones+(ArduPilot+%2B+MAVLink);CTF+platforms%2C+SQL+guardrails%2C+real-time+systems;CSE+%40+Sri+Sairam+%C2%B7+Class+of+2028" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8FF0C8&center=true&vCenter=true&width=720&lines=I+build+software+that+thinks%2C+verifies+%26+flies.;Verified+AI+coding+agents+%E2%80%94+model+proposes%2C+code+decides;Ground+control+for+autonomous+drones+(ArduPilot+%2B+MAVLink);CTF+platforms%2C+SQL+guardrails%2C+real-time+systems;Security-aware+SWE+%C2%B7+CSE+%C2%B7+Class+of+2028" alt="typing"/>
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 <a href="https://balaharish.netlify.app"><img src="https://img.shields.io/badge/Portfolio-8ff0c8?style=for-the-badge&logo=googlechrome&logoColor=07080a"/></a>
 <a href="https://www.linkedin.com/in/balah4rish-saravanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:balaharish0202@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/bala.06__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/u/balah4rish-saravanan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/>
 
@@ -31,17 +31,19 @@
 const bala = {
   name:       "Balaharish Saravanan",
   based:      "Chennai, India 🇮🇳",
-  college:    "Sri Sairam Engineering College — class of 2028",
-  roles:      ["Webmaster @ IEEE Computer Society Student Chapter",
+  college:    "B.E. CSE (3rd year), Sri Sai Ram Institute of Technology — class of 2028",
+  goal:       "security-aware software engineer",
+  roles:      ["Webmaster @ IEEE Computer Society, SSIT",
                "Software Lead @ Team Ignite Knights 4.0 (SAE AeroTHON)",
                "ex-GenAI Intern @ Sibi's 7Brains"],
+  certified:  "RHCSA — 100%",
   builds:     ["AI agents", "security tooling", "drone ground control", "real-time web"],
   philosophy: "Models propose, code decides. Verify before you trust.",
   funFact:    "Toad Sage Jiraiya superfan 🐸📜",
 };
 ```
 
-Still in college, already shipping: a terminal coding agent with a fail-closed test gate, the CTF engine behind a 400-player event, a browser ground station for an ArduPilot drone, and a SQL agent that can't drop your tables.
+Mostly solo, always shipping complete systems under hackathon deadlines rather than polished slides. Still in college, already built: a terminal coding agent with a fail-closed test gate, the CTF engine behind a 400-player event, a browser ground station for an ArduPilot drone, and a SQL agent that can't drop your tables.
 
 ---
 
@@ -56,7 +58,7 @@ Still in college, already shipping: a terminal coding agent with a fail-closed t
 <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,flutter,androidstudio,tailwind,vite&theme=dark&perline=8"/>
 
 **Data · Infra · Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,linux,cloudflare,git,raspberrypi&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,docker,linux,cloudflare,git,raspberrypi&theme=dark&perline=10"/>
 
 **AI · Robotics**<br/>
 <img src="https://img.shields.io/badge/LLM_Agents-0f2a24?style=flat-square&logo=openai&logoColor=8ff0c8"/>
@@ -68,6 +70,8 @@ Still in college, already shipping: a terminal coding agent with a fail-closed t
 <img src="https://img.shields.io/badge/ArduPilot-0f2a24?style=flat-square&logoColor=8ff0c8"/>
 <img src="https://img.shields.io/badge/PX4-0f2a24?style=flat-square&logoColor=8ff0c8"/>
 <img src="https://img.shields.io/badge/MAVLink-0f2a24?style=flat-square&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/LangChain-0f2a24?style=flat-square&logo=langchain&logoColor=8ff0c8"/>
+<img src="https://img.shields.io/badge/TFLite-0f2a24?style=flat-square&logo=tensorflow&logoColor=8ff0c8"/>
 <img src="https://img.shields.io/badge/OR--Tools-0f2a24?style=flat-square&logo=google&logoColor=8ff0c8"/>
 
 </div>
@@ -116,10 +120,10 @@ Conversational database agent. English or voice → **read-only** SQL behind a S
 <tr>
 <td width="50%" valign="top">
 
-### 🧵 [SilkCheck](https://github.com/balax-24/Powerhouse-IQOO_Hackathon)
-Turns a phone camera into an optical instrument: 2D FFT weave analysis tells handloom silk from power-loom fakes.
+### 🧑‍🎓 Smart Attend Pro (Internzz)
+Attendance platform for **1,000+ students**: on-device face verification (MobileFaceNet) + BLE proximity + device binding to stop proxy attendance.
 
-`Kotlin` `Jetpack Compose` `FFT`
+`Flutter` `Supabase RLS` `TFLite` `BLE`
 
 </td>
 <td width="50%" valign="top">
@@ -139,15 +143,16 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 
 | Project | What it is |
 |---|---|
+| [SilkCheck](https://github.com/balax-24/Powerhouse-IQOO_Hackathon) | On-device 2D FFT weave analysis: handloom vs power-loom silk |
+| [RiskSetu](https://github.com/balax-24/RiskSetu_Build2Gether-AI-Hackathon) | Offline-first PWA for health workers screening NCDs (WHO/ICMR rules) |
 | [RecoverAI](https://github.com/balax-24/RecoverAI_Razorpay-AI-Buildathon) | Guardrailed failed-payment recovery for Razorpay merchants |
 | [Sentinel Hawk](https://github.com/balax-24/Sentinel-Hawk-SIH26201-Software_Simulation-) | Single-image 3D reconstruction for rescue drones (SIH) |
 | [StadiumFlow](https://github.com/balax-24/Stadium-Flow---Physical_Event_GenAI_PromptWars) · [VoteWise](https://github.com/balax-24/VoteWise---Physical_Event_GenAI_PromptWars) | GenAI PromptWars builds |
 | [TechX Madras ’26 site](https://github.com/balax-24/TechX-26-Main-Web) | Official event website |
 | [Edumate](https://github.com/balax-24/edumate_sairam) | Flutter app for the college portal — 1000+ students |
-| [Internzz Attendance](https://github.com/balax-24/Internzz_attendance) | Flutter + Supabase attendance with device binding |
 | [API Sniffer](https://github.com/balax-24/API_Sniffer) | Chrome DevTools API capture panel |
-| [Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite) | Battery and power telemetry utility |
-| [SkillRack Companion](https://github.com/balax-24/skillrack_companion) | Points and streak tracker |
+| [Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite) | Linux power-management daemon (CPU/PCIe power states) with tray GUI |
+| [SkillRack Companion](https://github.com/balax-24/skillrack_companion) | Competitive-programming tracker with Chrome extension and Android widgets |
 
 </details>
 
@@ -159,9 +164,23 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 
 | 🥇 | 💻 | 🏁 | 🐧 |
 |:---:|:---:|:---:|:---:|
-| **Winner**<br/>Google GenAI PromptWars | **15,000+**<br/>SkillRack points | **3+**<br/>Hackathon podiums | **RHCSA**<br/>Red Hat standard |
+| **3×**<br/>Hackathon winner | **15,000+**<br/>SkillRack points | **400**<br/>players on my CTF engine | **RHCSA**<br/>certified · 100% |
 
 </div>
+
+<details open>
+<summary><b>Hackathon log</b></summary>
+<br/>
+
+- **IEEE Global Student Challenge 2026** — federated-learning backdoor attack & defense
+- **SAE AeroTHON 2026** — autonomous drone + browser GCS (Team Ignite Knights 4.0)
+- **iQOO Reskill Hackathon 2026** — SilkCheck, on-device Snapdragon AI
+- **MiniAI MedTech Hackathon** (Harvard-judged) — RiskSetu in a ~4–5 hour sprint
+- **HackTronix 2.0** — real-time ball detection + monocular distance/angle estimation
+- **Sairam Hackathon 2026** — Ledger, natural-language database agent
+- **Google GenAI PromptWars** — StadiumFlow & VoteWise for live physical events
+
+</details>
 
 ---
 
@@ -169,8 +188,8 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=balax-24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=8ff0c8&icon_color=8ff0c8&text_color=c9d1d9&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balax-24&layout=compact&langs_count=8&hide_border=true&bg_color=07080a&title_color=8ff0c8&text_color=c9d1d9"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=balax-24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07080a&title_color=8ff0c8&icon_color=8ff0c8&text_color=c9d1d9&rank_icon=github"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=balax-24&layout=compact&langs_count=8&hide_border=true&bg_color=07080a&title_color=8ff0c8&text_color=c9d1d9"/>
 
 <img src="https://streak-stats.demolab.com/?user=balax-24&hide_border=true&background=07080a&ring=8ff0c8&fire=8ff0c8&currStreakLabel=8ff0c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f4f5f7&sideNums=f4f5f7" width="70%"/>
 
@@ -194,7 +213,8 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 ```diff
 + shipping   Buzzard Code — subagents, MCP, VS Code extension
 + flying     AeroTHON GCS — mission autonomy on Raspberry Pi 5
-+ learning   multi-agent orchestration · edge inference (ONNX / TFLite)
++ learning   multi-agent orchestration · edge ML (ONNX / OpenVINO)
++ training   TryHackMe · OverTheWire · PicoCTF
 ! open to    internships · research collabs · hackathon teams
 ```
 
