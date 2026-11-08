@@ -1,10 +1,10 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:07080a,50:0f2a24,100:8ff0c8&height=280&section=header&text=Balaharish%20Saravanan&fontSize=58&fontColor=f4f5f7&fontAlignY=40&desc=AI%20Agents%20%C2%B7%20Security%20%C2%B7%20Autonomous%20Systems&descSize=18&descAlignY=60&animation=fadeIn&stroke=8ff0c8&strokeWidth=1" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07080a,55:0f2a24,100:3fbf8f&height=260&section=header&text=Balaharish%20Saravanan&fontSize=56&fontColor=f4f5f7&fontAlignY=36&desc=AI%20Agents%20%C2%B7%20Security%20%C2%B7%20Autonomous%20Systems&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://balaharish.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=8FF0C8&center=true&vCenter=true&width=720&lines=I+build+software+that+thinks%2C+verifies+%26+flies.;Verified+AI+coding+agents+%E2%80%94+model+proposes%2C+code+decides;Ground+control+for+autonomous+drones+(ArduPilot+%2B+MAVLink);CTF+platforms%2C+SQL+guardrails%2C+real-time+systems;Security-aware+SWE+%C2%B7+CSE+%C2%B7+Class+of+2028" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=8FF0C8&center=true&vCenter=true&width=820&height=40&lines=I+build+software+that+thinks%2C+verifies+%26+flies.;Verified+AI+coding+agents;Drone+ground+control%3A+ArduPilot+%2B+MAVLink;CTF+platforms%2C+SQL+guardrails%2C+real-time+web;Security-aware+SWE+%C2%B7+Class+of+2028" alt="typing"/>
 </a>
 
 <br/>
@@ -193,9 +193,8 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 
 <img src="https://streak-stats.demolab.com/?user=balax-24&hide_border=true&background=07080a&ring=8ff0c8&fire=8ff0c8&currStreakLabel=8ff0c8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f4f5f7&sideNums=f4f5f7" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=balax-24&bg_color=07080a&color=c9d1d9&line=8ff0c8&point=f4f5f7&area=true&area_color=8ff0c8&hide_border=true" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=balax-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=balax-24&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
