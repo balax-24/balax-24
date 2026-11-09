@@ -102,7 +102,7 @@ Browser ground control for an ArduPilot drone on a Raspberry Pi 5 — live MAVLi
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [TechX CTF Platform](https://github.com/balax-24/TechX-26---CTF_Event)
+### 🛡️ [TechX CTF Platform](https://github.com/balax-24/techx-ctf)
 High-concurrency Capture The Flag engine for IEEE TechX Madras ’26: SSE leaderboards, per-team Docker challenge isolation, offline-LAN ready.
 
 `TypeScript` `Fastify` `PostgreSQL` `Redis` `Docker`
@@ -110,7 +110,7 @@ High-concurrency Capture The Flag engine for IEEE TechX Madras ’26: SSE leader
 </td>
 <td width="50%" valign="top">
 
-### 📒 [Ledger](https://github.com/balax-24/Blue-Silver-Avengers__Sairam-Hackathon-2026)
+### 📒 [Ledger](https://github.com/balax-24/ledger-sql-agent)
 Conversational database agent. English or voice → **read-only** SQL behind a SQLGlot AST gate, self-healing queries, charts and ER diagrams.
 
 `FastAPI` `React` `Gemini` `PostgreSQL`
@@ -128,7 +128,7 @@ Attendance platform for **1,000+ students**: on-device face verification (Mobile
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [PulsePoll](https://github.com/balax-24/pulsepoll-HCL_GUVI)
+### ⚡ [PulsePoll](https://github.com/balax-24/pulsepoll)
 Real-time voting: one vote fans out to every listener in milliseconds through a Go WebSocket hub backed by Redis.
 
 `Go` `WebSockets` `Redis` `React`
@@ -143,16 +143,16 @@ Real-time voting: one vote fans out to every listener in milliseconds through a 
 
 | Project | What it is |
 |---|---|
-| [SilkCheck](https://github.com/balax-24/Powerhouse-IQOO_Hackathon) | On-device 2D FFT weave analysis: handloom vs power-loom silk |
-| [RiskSetu](https://github.com/balax-24/RiskSetu_Build2Gether-AI-Hackathon) | Offline-first PWA for health workers screening NCDs (WHO/ICMR rules) |
-| [RecoverAI](https://github.com/balax-24/RecoverAI_Razorpay-AI-Buildathon) | Guardrailed failed-payment recovery for Razorpay merchants |
-| [Sentinel Hawk](https://github.com/balax-24/Sentinel-Hawk-SIH26201-Software_Simulation-) | Single-image 3D reconstruction for rescue drones (SIH) |
-| [StadiumFlow](https://github.com/balax-24/Stadium-Flow---Physical_Event_GenAI_PromptWars) · [VoteWise](https://github.com/balax-24/VoteWise---Physical_Event_GenAI_PromptWars) | GenAI PromptWars builds |
-| [TechX Madras ’26 site](https://github.com/balax-24/TechX-26-Main-Web) | Official event website |
+| [SilkCheck](https://github.com/balax-24/powerhouse) | On-device 2D FFT weave analysis: handloom vs power-loom silk |
+| [RiskSetu](https://github.com/balax-24/risksetu) | Offline-first PWA for health workers screening NCDs (WHO/ICMR rules) |
+| [RecoverAI](https://github.com/balax-24/recoverai) | Guardrailed failed-payment recovery for Razorpay merchants |
+| [Sentinel Hawk](https://github.com/balax-24/sentinel-hawk-sih) | Single-image 3D reconstruction for rescue drones (SIH) |
+| [StadiumFlow](https://github.com/balax-24/stadium-flow) · [VoteWise](https://github.com/balax-24/votewise) | GenAI PromptWars builds |
+| [TechX Madras ’26 site](https://github.com/balax-24/techx-website) | Official event website |
 | [Edumate](https://github.com/balax-24/edumate_sairam) | Flutter app for the college portal — 1000+ students |
 | [API Sniffer](https://github.com/balax-24/API_Sniffer) | Chrome DevTools API capture panel |
 | [Buzzard Power Suite](https://github.com/balax-24/Buzzard-Power-Suite) | Linux power-management daemon (CPU/PCIe power states) with tray GUI |
-| [SkillRack Companion](https://github.com/balax-24/skillrack_companion) | Competitive-programming tracker with Chrome extension and Android widgets |
+| [SkillRack Companion](https://github.com/balax-24/skillrack-companion) | Competitive-programming tracker with Chrome extension and Android widgets |
 
 </details>
 
